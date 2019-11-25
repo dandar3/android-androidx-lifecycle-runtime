@@ -10,6 +10,7 @@ https://maven.google.com/androidx/lifecycle/lifecycle-runtime/2.0.0/lifecycle-ru
 - [dandar3/android-androidx-lifecycle-common](https://github.com/dandar3/android-androidx-lifecycle-common/tree/2.0.0)
 
 
+
 **References:**
 - https://developer.android.com/jetpack
 - https://developer.android.com/jetpack/androidx/releases/lifecycle
