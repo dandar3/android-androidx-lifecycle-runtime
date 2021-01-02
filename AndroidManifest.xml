@@ -16,9 +16,11 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="androidx.lifecycle" 
-    android:versionCode="210"
-    android:versionName="2.1.0">
+    android:versionCode="220"
+    android:versionName="2.2.0">
 
-    <uses-sdk android:minSdkVersion="14" />
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="28" />
 
 </manifest>
