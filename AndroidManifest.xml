@@ -15,12 +15,12 @@
   ~ limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="androidx.lifecycle" 
-    android:versionCode="220"
-    android:versionName="2.2.0">
+    package="androidx.lifecycle.runtime" 
+    android:versionCode="230"
+    android:versionName="2.3.0">
 
     <uses-sdk
         android:minSdkVersion="14"
-        android:targetSdkVersion="28" />
+        android:targetSdkVersion="30" />
 
 </manifest>

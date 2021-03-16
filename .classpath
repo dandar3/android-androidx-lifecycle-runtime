@@ -7,6 +7,7 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-annotation"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-arch-core-common"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-arch-core-runtime"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-lifecycle-common"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
