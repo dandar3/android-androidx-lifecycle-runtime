@@ -8,7 +8,7 @@ https://maven.google.com/androidx/lifecycle/lifecycle-runtime/2.3.0/lifecycle-ru
   https://raw.githubusercontent.com/dandar3/android-androidx-lifecycle-runtime/2.3.0/.projectset
 
 **Requires:**
-- `Android 9 (API 28) SDK Platform`
+- `Android 11 (API 30) SDK Platform`
 
 **References:**
 - https://developer.android.com/jetpack
