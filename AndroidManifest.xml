@@ -16,11 +16,11 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="androidx.lifecycle.runtime" 
-    android:versionCode="231"
-    android:versionName="2.3.1">
+    android:versionCode="240"
+    android:versionName="2.4.0">
 
     <uses-sdk
         android:minSdkVersion="14"
-        android:targetSdkVersion="30" />
+        android:targetSdkVersion="31" />
 
 </manifest>
